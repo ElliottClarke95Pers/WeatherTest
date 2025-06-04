@@ -14,9 +14,16 @@ obj/
 *.userosscache
 *.sln.docstates
 
-# VS Code settings (optional if team not using them)
+# Visual Studio / .NET
+bin/
+obj/
 .vscode/
+*.user
+*.suo
 
+# OS-specific
+.DS_Store
+Thumbs.db
 # Copilot-related cache (based on what you're seeing)
 **/copilot-chat*/
 
@@ -28,3 +35,14 @@ obj/
 
 # MSI or binary installers (optional, depending on use)
 *.msi
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.backup
+.terraform.lock.hcl
+
+# Docker
+*.log
+*.tmp
