@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  REGISTRY: <YOUR_ACR_NAME>.azurecr.io
+  REGISTRY: elliottweatheracr2025.azurecr.io
   IMAGE_NAME: weatherapi
 
 jobs:
