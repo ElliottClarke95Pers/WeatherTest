@@ -42,7 +42,11 @@ Thumbs.db
 *.tfstate.*
 *.backup
 .terraform.lock.hcl
+*.tfvars
+*.tfstate
+
 
 # Docker
 *.log
 *.tmp
+WebAPI/iac/terraform.tfvars
