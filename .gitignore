@@ -47,7 +47,8 @@ Thumbs.db
 .tfvars
 
 
-# Docker
+# Docker 
+
 *.log
 *.tmp
 WebAPI/iac/terraform.tfvars
