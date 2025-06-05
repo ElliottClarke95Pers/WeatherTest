@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elliott.Clarke\\Source\\Repos\\WeatherTest\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Elliott.Clarke\\source\\repos\\WeatherTest\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elliott.Clarke\\Source\\Repos\\WeatherTest\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Elliott.Clarke\\source\\repos\\WeatherTest\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elliott.Clarke\\Source\\Repos\\WeatherTest\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Elliott.Clarke\\source\\repos\\WeatherTest\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Elliott.Clarke\\Source\\Repos\\WeatherTest\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Elliott.Clarke\\source\\repos\\WeatherTest\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Elliott.Clarke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elliott.Clarke\\Source\\Repos\\WeatherTest\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Elliott.Clarke\\source\\repos\\WeatherTest\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

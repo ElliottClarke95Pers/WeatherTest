@@ -17,3 +17,8 @@ variable "aks_name" {
   description = "Azure Kubernetes Service (AKS) cluster name"
   type        = string
 }
+
+variable "subscription_id" {}
+variable "client_id" {}
+variable "client_secret" {}
+variable "tenant_id" {}
