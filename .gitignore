@@ -44,6 +44,7 @@ Thumbs.db
 .terraform.lock.hcl
 *.tfvars
 *.tfstate
+.tfvars
 
 
 # Docker
