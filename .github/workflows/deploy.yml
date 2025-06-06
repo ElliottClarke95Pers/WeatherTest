@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  REGISTRY: ${{ secrets.ACR_NAME }}
+  REGISTRY: ${{ secrets.REGISTRY }}
   IMAGE_NAME: weatherapi
 
 jobs:
